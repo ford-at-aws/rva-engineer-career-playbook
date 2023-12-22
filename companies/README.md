@@ -1,4 +1,4 @@
-# List of recommended companies to work for any why
+# List of recommended companies to work for
 Please use consistent format for all new entries. Avoid specifics, as they go stale.
 
 ## 1. Snagajob
